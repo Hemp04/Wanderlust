@@ -38,6 +38,8 @@ Once the application is running, you can access it at http://localhost:8080. The
 
 Project Structure:-
 
+For accessing folders go to master branch which contains all the files & folders as well as ReadMe file also.
+ 
 deta/
 ├── controller/
 │   ├── listing.js
