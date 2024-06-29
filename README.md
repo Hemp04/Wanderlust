@@ -1,6 +1,6 @@
 # Wanderlust
 
-This project is a web application built with Node.js and Express. It uses EJS as the templating engine and includes functionalities for user management, listing management, and reviews. The project is structured to follow the MVC (Model-View-Controller) pattern.
+This project is a web application built with Node.js and Express. It uses EJS as the templating engine and includes functionalities for user management, listing management, and reviews. The project is structured to follow the MVC (Model-View-Controller) pattern.It is deployed using Render which can be accessed using # https://wanderlust-d2gl.onrender.com/listings. It leverages cloud-platform services of cloudinary.
 
 Table of Contents
 
